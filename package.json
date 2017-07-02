@@ -1,9 +1,9 @@
 {
-  "name": "starter",
+  "name": "spotify-clone",
   "version": "0.0.1",
-  "description": "Starter",
+  "description": "Spotify clone",
   "main": "index.js",
-  "author": "Fred Hawk",
+  "author": "Fred Hawk, aaayumi",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
@@ -41,9 +41,5 @@
     "deploy": "gh-pages -d dist",
     "superclean": "rimraf ./dist/*"
   },
-  "browserslist": [
-    "> 5%",
-    "last 2 versions",
-    "ie 11"
-  ]
+  "browserslist": ["> 5%", "last 2 versions", "ie 11"]
 }

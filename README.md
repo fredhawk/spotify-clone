@@ -1,1 +1,1 @@
-# Starter
+# A little spotify clone we are doing

@@ -86,7 +86,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: `Starter`, // Change to whatever project it is.
+      title: `Spotify clone`, // Change to whatever project it is.
       minify: {
         collapseWhitepsace: false // Set to true to minify html
       },
