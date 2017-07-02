@@ -41,5 +41,9 @@
     "deploy": "gh-pages -d dist",
     "superclean": "rimraf ./dist/*"
   },
-  "browserslist": ["> 5%", "last 2 versions", "ie 11"]
+  "browserslist": [
+    "> 5%",
+    "last 2 versions",
+    "ie 11"
+  ]
 }
